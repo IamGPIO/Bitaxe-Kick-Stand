@@ -5,8 +5,8 @@ The stand has been designed for the awesome Bitaxe Open Source bitcoin miner as 
 
 There are two versions "With Logo" and "Without Logo".
 
-"With Logo": Recess for a bespoke Bitaxe sticker of which files are in this repository.
-"No logo": No recess
+"With Logo": Recess for a bespoke Bitaxe sticker of which files are in this repository.  
+"No Logo": No recess
  
 They have been drawn in Fusion360 by myself (IamGPIO) of www.thesolomining.co
 
@@ -18,6 +18,6 @@ If this design doesnt work for you, sorry about that.
 If it does, good stuff!
 
 
-info@thesolomining.co
-www.thesolomining.co
-@thesolominingco
+info@thesolomining.co  
+www.thesolomining.co  
+@thesolominingco  
