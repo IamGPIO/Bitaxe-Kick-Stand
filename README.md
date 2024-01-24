@@ -9,7 +9,7 @@ The two versions are "With Logo" and "No Logo".
 "With Logo": Recess for a bespoke Bitaxe sticker of which image file is in this repository.  
 "No Logo": No recess.  
 
-Note: If you get Bitaxe Stickers made, they must be exactly 29.5mm wide x 12.8mm high.  
+Note: If you get Bitaxe stickers made for this stand, they must be exactly 29.5mm wide x 12.8mm high.  
  
 They have been drawn in Fusion360 by myself (IamGPIO) of www.thesolomining.co  
 
