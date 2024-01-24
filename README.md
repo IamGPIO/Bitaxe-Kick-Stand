@@ -24,3 +24,6 @@ If it does, good stuff!
 info@thesolomining.co  
 www.thesolomining.co  
 @thesolominingco  
+
+
+![Rear Iso No GFX](Renders/Rear%20Iso%20No%20GFX.png)
