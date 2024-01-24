@@ -37,10 +37,10 @@ www.thesolomining.co
   </tr>
   <tr>
     <td>Kick Stand, no logo, front isometric.</td>
-    <td><img src="Renders/Front Iso No GFX.png" alt="No logo front isometric" width="90%"/></td>
+    <td><img src="Renders/Front Iso No GFX.png" alt="No logo front isometric" width="120%"/></td>
   </tr>
   <tr>
     <td>Kick Stand, no logo, rear isometric.</td>
-    <td><img src="Renders/Rear Iso No GFX.png" alt=No logo rear isometric" width="90%"/></td>
+    <td><img src="Renders/Rear Iso No GFX.png" alt=No logo rear isometric" width="120%"/></td>
   </tr>
 </table>
