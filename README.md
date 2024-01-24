@@ -17,7 +17,7 @@ You will need 4 x (M3 x 6mm) self tapping screws.
 
 
 If you can improve this design, feel free to do so. Remember, sharing is caring.  
-If this design doesnt work for you, sorry about that.  
+If this design doesn't work for you, sorry about that.  
 If it does, good stuff!  
 
 
