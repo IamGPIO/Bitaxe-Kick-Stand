@@ -6,8 +6,10 @@ The stand has been designed for the awesome Bitaxe Open Source bitcoin miner as 
 There are two versions of the "Kick Stand" file sets.  
 The two versions are "With Logo" and "Without Logo".  
 
-"With Logo": Recess for a bespoke Bitaxe sticker of which files are in this repository.  
-"Without Logo": No recess.
+"With Logo": Recess for a bespoke Bitaxe sticker of which image file is in this repository.  
+"No Logo": No recess.  
+
+Note: If you get Bitaxe Stickers made, they must be exactly 29.5mm wide x 12.8mm high.  
  
 They have been drawn in Fusion360 by myself (IamGPIO) of www.thesolomining.co  
 
