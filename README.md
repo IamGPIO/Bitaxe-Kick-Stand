@@ -7,7 +7,7 @@ There are two versions of the "Kick Stand" file sets.
 The two versions are "With Logo" and "Without Logo".  
 
 "With Logo": Recess for a bespoke Bitaxe sticker of which files are in this repository.  
-"Wihtout Logo": No recess.
+"Without Logo": No recess.
  
 They have been drawn in Fusion360 by myself (IamGPIO) of www.thesolomining.co  
 
