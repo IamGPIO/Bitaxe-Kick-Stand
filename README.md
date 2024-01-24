@@ -26,16 +26,21 @@ www.thesolomining.co
 @thesolominingco  
 
 
-![Rear Iso No GFX](Renders/Rear%20Iso%20No%20GFX.png)
-
-
 <table>
   <tr>
-    <td>
-      Your text goes here. This text will be to the left of the image.
-    </td>
-    <td>
-      <img src="Renders/Rear Iso No GFX.png" alt="Rear Iso No GFX" />
-    </td>
+    <td>Kick Stand with Bitaxe Logo Sticker. Front isomtetric</td>
+    <td><img src="Renders/Front Iso + GFX.png" alt="Front isometric with logo" width="75%"/></td>
+  </tr>
+  <tr>
+    <td>Kick Stand with Bitaxe Logo Sticker. Rear Isometric</td>
+    <td><img src="Renders/Rear Iso + GFX.PNG" alt="Second Image" width="75%"/></td>
+  </tr>
+  <tr>
+    <td>Kick Stand, no logo, front isometric.</td>
+    <td><img src="Renders/Front Iso No GFX.png" alt="No logo front isometric" width="75%"/></td>
+  </tr>
+  <tr>
+    <td>Kick Stand, no logo, rear isometric.</td>
+    <td><img src="Renders/Rear Iso No GFX.png" alt=No logo rear isometric" width="75%"/></td>
   </tr>
 </table>
