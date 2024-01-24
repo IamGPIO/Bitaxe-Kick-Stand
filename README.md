@@ -27,3 +27,15 @@ www.thesolomining.co
 
 
 ![Rear Iso No GFX](Renders/Rear%20Iso%20No%20GFX.png)
+
+
+<table>
+  <tr>
+    <td>
+      Your text goes here. This text will be to the left of the image.
+    </td>
+    <td>
+      <img src="Renders/Rear Iso No GFX.png" alt="Rear Iso No GFX" />
+    </td>
+  </tr>
+</table>
