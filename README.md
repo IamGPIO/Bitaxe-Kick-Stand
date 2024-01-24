@@ -3,7 +3,7 @@
 These files are offered free of charge.   
 The stand has been designed for the awesome Bitaxe Open Source bitcoin miner as developed by Skot9000 and team (https://bitaxe.org/)
 
-There are two versions "With Logo" and "Without Logo".  
+There are two versions of the "Kick Stand" - also known as "The Slim Stand". Two version are "With Logo" and "Without Logo".  
 
 "With Logo": Recess for a bespoke Bitaxe sticker of which files are in this repository.  
 "No Logo": No recess
