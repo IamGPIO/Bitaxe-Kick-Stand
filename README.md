@@ -3,10 +3,11 @@
 These files are offered free of charge.   
 The stand has been designed for the awesome Bitaxe Open Source bitcoin miner as developed by Skot9000 and team (https://bitaxe.org/)
 
-There are two versions of the "Kick Stand" file sets. Two version are "With Logo" and "Without Logo".  
+There are two versions of the "Kick Stand" file sets.  
+The two versions are "With Logo" and "Without Logo".  
 
 "With Logo": Recess for a bespoke Bitaxe sticker of which files are in this repository.  
-"No Logo": No recess
+"Wihtout Logo": No recess.
  
 They have been drawn in Fusion360 by myself (IamGPIO) of www.thesolomining.co  
 
